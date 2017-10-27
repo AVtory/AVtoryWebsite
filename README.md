@@ -5,6 +5,8 @@
 # Overview
 Group Project for CS 441 - Software Engineering at Cal State San Marcos
 
+## Project Description
+The goal of this project was to create a web application to manage equipment and inventory. This inventory management system was designed with efficiency and security in mind. By providing a secure and user-friendly interface, this web application allows employees to easily and securely interact with their equipment stored in a database.
 
 
 
