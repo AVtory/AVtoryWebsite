@@ -15,9 +15,9 @@ The goal of this project was to create a web application to manage equipment and
 ## Change Log 
 #### Date: 10-25-17 
 #### AVtory HTML pages
-1. **about.html** - About without log in 
-2. **about2.html** - About with log in 
-3. **AVtory.html** - Homepage when you log in 
+1. **`about.html`** - About without log in 
+2. **`about2.html`** - About with log in 
+3. **`AVtory.html`** - Homepage when you log in 
 4. **chkin.html** - Used to check in a piece of inventory.
 	* Still needs to match other pages and implemented
 5. **chkout.html** - Used to check out a piece of inventory. 
