@@ -1,10 +1,5 @@
-
-Inline-style: 
-![alt text](https://s3-us-west-2.amazonaws.com/cs-441-avtory/images/AVtory_logo.png "AVtory Logo")
-
 Reference-style: 
 ![alt text][logo]
-
 
 [logo]: https://s3-us-west-2.amazonaws.com/cs-441-avtory/images/AVtory_logo.png "AVtory Logo"
 
