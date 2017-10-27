@@ -14,26 +14,26 @@ The goal of this project was to create a web application to manage equipment and
 
 ### Change Log 
 
-#### 10-25-17 
-AVtory HTML pages
-about.html	-About without log in 
-about2.html	-About with log in 
-AVtory.html     -Homepage when you log in 
-chkin.html		       *still needs to match other pages and implemented
-chkout.html 		     *still needs to match other pages and implemented
-equipment.html             *still needs to match other pages 
+1. 10-25-17 
+* AVtory HTML pages
+	1. about.html	-About without log in 
+	2. about2.html	-About with log in 
+	3. AVtory.html     -Homepage when you log in 
+	4. chkin.html		       *still needs to match other pages and implemented
+	5. chkout.html 		     *still needs to match other pages and implemented
+	6. equipment.html             *still needs to match other pages 
 
-addEquipment.html       -Adding new item has js check
-		    	*A better way to add items? User selects how many items they want to add. 
+	7. addEquipment.html       -Adding new item has js check
+		* A better way to add items? User selects how many items they want to add. 
 				       	      
-editEquipment.html      *Needs a js check				
-deleteEquipment.html	*Needs a js check
-^Both of these need a way to be selected and edited
+	8. editEquipment.html      *Needs a js check				
+	9. deleteEquipment.html	*Needs a js check
+		* Both of these need a way to be selected and edited
 
-login.html	-Login has JS check and takes in what user fills out
-logout.html	*needs more stuff?
-setting.html	*need to match other pages and implemented
-signup.html	-Sign up has JS check and takes in what user fills out 
+10. login.html	-Login has JS check and takes in what user fills out
+11. logout.html	*needs more stuff?
+12. setting.html	*need to match other pages and implemented
+13. signup.html	-Sign up has JS check and takes in what user fills out 
 
 AVtory test pages
 testa.html - ABOUT 
