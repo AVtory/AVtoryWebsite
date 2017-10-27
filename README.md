@@ -1,3 +1,12 @@
+![alt text](https://github.com/AVtory/AVtoryWebsite/blob/d3nise-meow-1/images/AV.png AVtory Logo)
+
+
+
+
+
+
+
+
 10-25-17 
 AVtory HTML pages
 about.html	-About without log in 
