@@ -1,6 +1,6 @@
 
 
-[logo]: https://github.com/AVtory/AVtoryWebsite/blob/d3nise-meow-1/images/AV.png "AVtory Logo"
+[logo]: https://s3-us-west-2.amazonaws.com/cs-441-avtory/images/AVtory_logo.png "AVtory Logo"
 
 
 
