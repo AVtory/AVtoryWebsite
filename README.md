@@ -1,4 +1,6 @@
-[logo](https://github.com/AVtory/AVtoryWebsite/blob/d3nise-meow-1/images/AV.png AVtory Logo)
+
+
+[logo]: https://github.com/AVtory/AVtoryWebsite/blob/d3nise-meow-1/images/AV.png "AVtory Logo"
 
 
 
