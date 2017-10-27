@@ -2,7 +2,7 @@
 
 [logo]: https://s3-us-west-2.amazonaws.com/cs-441-avtory/images/AVtory_logo_Cropped.png "AVtory Logo"
 
-# Overview
+Overview
 ---
 Group Project for CS 441 - Software Engineering at Cal State San Marcos
 
