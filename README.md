@@ -14,7 +14,7 @@ The goal of this project was to create a web application to manage equipment and
 
 ## Change Log 
 #### Date: 10-25-17 
-##### AVtory HTML pages
+#### AVtory HTML pages
 1. **about.html** - About without log in 
 2. **about2.html** - About with log in 
 3. **AVtory.html** - Homepage when you log in 
@@ -40,7 +40,7 @@ The goal of this project was to create a web application to manage equipment and
 13. **signup.html** 
 	* Sign up has JS check and takes in what user fills out 
 
-##### AVtory test pages
+#### AVtory test pages
 1. testa.html - ABOUT 
 2. test.html  - 
 3. test0.html - 
@@ -55,7 +55,7 @@ The goal of this project was to create a web application to manage equipment and
 ***
 
 #### Date: 10-24-17 
-##### AVtory HTML pages
+#### AVtory HTML pages
 1. **about.html** - About without log in 
 2. **about2.html** - About with log in 
 3. **AVtory.html** - Homepage when you log in 
@@ -72,7 +72,7 @@ The goal of this project was to create a web application to manage equipment and
 	* need to match other pages and implemented
 10. **signup.html** - Sign up has JS check and takes in what user fills out 
 
-##### AVtory test pages
+#### AVtory test pages
 1. testa.html - ABOUT 
 2. test.html  - LOG IN
 3. test0.html - SIGN UP
