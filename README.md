@@ -14,32 +14,32 @@ The goal of this project was to create a web application to manage equipment and
 
 ### Change Log 
 
-1. 10-25-17 
-* AVtory HTML pages
-	1. **about.html_** - About without log in 
-	2. **about2.html_** - About with log in 
-	3. **AVtory.html_** - Homepage when you log in 
-	4. **chkin.html_** - Used to check in a piece of inventory.
-		* Still needs to match other pages and implemented
-	5. **chkout.html_** - Used to check out a piece of inventory. 
-		* Still needs to match other pages and implemented
-	6. **equipment.html_** - View, add, delete, and update inventory. 
-		* Still needs to match other pages 
-	7. **addEquipment.html_** - Adding new item has js check
-		* A better way to add items? User selects how many items they want to add.    	      
-	8. **editEquipment.html_**
-		* Need to implement a validation method to verify data and confirm changes. 
-		* Need to implement a method to select and edit inventory
-	9. **deleteEquipment.html_**
-		* Need to implement a validation and verification method 
-		* Need to implement a method to select and delete equipment. 
-	10. **login.html_** - Login has JS check and takes in what user fills out
-	11. **logout.html_**
-		* needs more stuff?
-	12. **setting.html_** - View and modify user profile and information
-		*need to match other pages and implemented
-	13. **signup.html_** 
-		* Sign up has JS check and takes in what user fills out 
+#### 10-25-17 
+##### AVtory HTML pages
+1. **about.html_** - About without log in 
+2. **about2.html_** - About with log in 
+3. **AVtory.html_** - Homepage when you log in 
+4. **chkin.html_** - Used to check in a piece of inventory.
+	* Still needs to match other pages and implemented
+5. **chkout.html_** - Used to check out a piece of inventory. 
+	* Still needs to match other pages and implemented
+6. **equipment.html_** - View, add, delete, and update inventory. 
+	* Still needs to match other pages 
+7. **addEquipment.html_** - Adding new item has js check
+	* A better way to add items? User selects how many items they want to add.    	      
+8. **editEquipment.html_**
+	* Need to implement a validation method to verify data and confirm changes. 
+	* Need to implement a method to select and edit inventory
+9. **deleteEquipment.html_**
+* Need to implement a validation and verification method 
+	* Need to implement a method to select and delete equipment. 
+10. **login.html_** - Login has JS check and takes in what user fills out
+11. **logout.html_**
+	* needs more stuff?
+12. **setting.html_** - View and modify user profile and information
+	*need to match other pages and implemented
+13. **signup.html_** 
+	* Sign up has JS check and takes in what user fills out 
 
 AVtory test pages
 testa.html - ABOUT 
