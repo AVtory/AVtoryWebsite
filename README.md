@@ -24,20 +24,22 @@ The goal of this project was to create a web application to manage equipment and
 	* Still needs to match other pages and implemented
 6. **`equipment.html`** - View, add, delete, and update inventory. 
 	* Still needs to match other pages 
-7. **`addEquipment.html`** - Adding new item has js check
+7. **`addEquipment.html`** - Add a new inventory item to database.
+	* Adding new item has js check
 	* A better way to add items? User selects how many items they want to add.    	      
-8. **`editEquipment.html`**
+8. **`editEquipment.html`** - Edit an existing inventory item. 
 	* Need to implement a validation method to verify data and confirm changes. 
 	* Need to implement a method to select and edit inventory
-9. **`deleteEquipment.html`**
+9. **`deleteEquipment.html`** - Delete an existing inventory item from the database.
 	* Need to implement a validation and verification method 
 	* Need to implement a method to select and delete equipment. 
-10. **`login.html`** - Login has JS check and takes in what user fills out
-11. **`logout.html`**
+10. **`login.html`** - Page to access the website and database. 
+	* Login has JS check and takes in what user fills out
+11. **`logout.html`** - 
 	* needs more stuff?
 12. **`setting.html`** - View and modify user profile and information
 	* Need to match other pages and be implemented
-13. **`signup.html`** 
+13. **`signup.html`** - Signup page for new employees to request credentials. 
 	* Sign up has JS check and takes in what user fills out 
 
 #### AVtory test pages
@@ -65,7 +67,8 @@ The goal of this project was to create a web application to manage equipment and
 	* still needs to match other pages and implemented
 6. **`equipment.html`**
 	* still needs to match other pages 
-7. **`login.html`** - Login has JS check and takes in what user fills out
+7. **`login.html`** 
+	* Login has JS check and takes in what user fills out
 8. **`logout.html`**
 	* needs more stuff?
 9. **`setting.html`**
@@ -74,7 +77,7 @@ The goal of this project was to create a web application to manage equipment and
 
 #### AVtory test pages
 1. testa.html - ABOUT 
-2. test.html - LOG IN
+2. test.html  - LOG IN
 3. test0.html - SIGN UP
 4. test1.html - HOME
 5. test2.html - Equipment
