@@ -10,70 +10,73 @@ Group Project for CS 441 - Software Engineering at Cal State San Marcos
 The goal of this project was to create a web application to manage equipment and inventory. This inventory management system was designed with efficiency and security in mind. By providing a secure and user-friendly interface, this web application allows employees to easily and securely interact with their equipment stored in a database.
 
 
-
-
 ### Change Log 
 
 #### 10-25-17 
 ##### AVtory HTML pages
-1. **about.html_** - About without log in 
-2. **about2.html_** - About with log in 
-3. **AVtory.html_** - Homepage when you log in 
-4. **chkin.html_** - Used to check in a piece of inventory.
+1. **about.html** - About without log in 
+2. **about2.html** - About with log in 
+3. **AVtory.html** - Homepage when you log in 
+4. **chkin.html** - Used to check in a piece of inventory.
 	* Still needs to match other pages and implemented
-5. **chkout.html_** - Used to check out a piece of inventory. 
+5. **chkout.html** - Used to check out a piece of inventory. 
 	* Still needs to match other pages and implemented
-6. **equipment.html_** - View, add, delete, and update inventory. 
+6. **equipment.html** - View, add, delete, and update inventory. 
 	* Still needs to match other pages 
-7. **addEquipment.html_** - Adding new item has js check
+7. **addEquipment.html** - Adding new item has js check
 	* A better way to add items? User selects how many items they want to add.    	      
-8. **editEquipment.html_**
+8. **editEquipment.html**
 	* Need to implement a validation method to verify data and confirm changes. 
 	* Need to implement a method to select and edit inventory
-9. **deleteEquipment.html_**
-* Need to implement a validation and verification method 
+9. **deleteEquipment.html**
+	* Need to implement a validation and verification method 
 	* Need to implement a method to select and delete equipment. 
-10. **login.html_** - Login has JS check and takes in what user fills out
-11. **logout.html_**
+10. **login.html** - Login has JS check and takes in what user fills out
+11. **logout.html**
 	* needs more stuff?
-12. **setting.html_** - View and modify user profile and information
-	*need to match other pages and implemented
-13. **signup.html_** 
+12. **setting.html** - View and modify user profile and information
+	* Need to match other pages and be implemented
+13. **signup.html** 
 	* Sign up has JS check and takes in what user fills out 
 
-AVtory test pages
-testa.html - ABOUT 
-test.html  - 
-test0.html - 
-test1.html - *testing for side overview
-test2.html - 
-test3.html - 
-test4.html - 
-test5.html - 
-test6.html - 
-test7.html - 
+##### AVtory test pages
+1. testa.html - ABOUT 
+2. test.html  - 
+3. test0.html - 
+4. test1.html - *testing for side overview
+5. test2.html - 
+6. test3.html - 
+7. test4.html - 
+8. test5.html - 
+9. test6.html - 
+10. test7.html - 
 
 #### 10-24-17 
-AVtory HTML pages
-about.html  -About without log in 
-about2.html -About with log in 
-AVtory.html -Homepage when you log in 
-chkin.html  *still needs to match other pages and implemented
-chkout.html *still needs to match other pages and implemented
-equipment.html	   *still needs to match other pages 
-login.html	   -Login has JS check and takes in what user fills out
-logout.html	   *needs more stuff?
-setting.html	   *need to match other pages and implemented
-signup.html	   -Sign up has JS check and takes in what user fills out 
+##### AVtory HTML pages
+1. **about.html** - About without log in 
+2. **about2.html** - About with log in 
+3. **AVtory.html** - Homepage when you log in 
+4. **chkin.html** 
+	* still needs to match other pages and implemented
+5. **chkout.html**
+	* still needs to match other pages and implemented
+6. **equipment.html**
+	* still needs to match other pages 
+7. **login.html** - Login has JS check and takes in what user fills out
+8. **logout.html**
+	* needs more stuff?
+9. **setting.html**
+	* need to match other pages and implemented
+10. **signup.html** - Sign up has JS check and takes in what user fills out 
 
-AVtory test pages
-testa.html - ABOUT 
-test.html  - LOG IN
-test0.html - SIGN UP
-test1.html - HOME
-test2.html - Equipment
-test3.html - Check In
-test4.html - Check Out 
-test5.html - ADD/EDIT/DELETE
-test6.html - Settings
-test7.html - Logout 
+##### AVtory test pages
+1. testa.html - ABOUT 
+2. test.html  - LOG IN
+3. test0.html - SIGN UP
+4. test1.html - HOME
+5. test2.html - Equipment
+6. test3.html - Check In
+7. test4.html - Check Out 
+8. test5.html - ADD/EDIT/DELETE
+9. test6.html - Settings
+10. test7.html - Logout 
