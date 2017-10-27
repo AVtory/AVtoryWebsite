@@ -11,7 +11,7 @@ The goal of this project was to create a web application to manage equipment and
 
 
 ### Change Log 
-
+---
 #### 10-25-17 
 ##### AVtory HTML pages
 1. **about.html** - About without log in 
@@ -50,7 +50,7 @@ The goal of this project was to create a web application to manage equipment and
 8. test5.html - 
 9. test6.html - 
 10. test7.html - 
-
+---
 #### 10-24-17 
 ##### AVtory HTML pages
 1. **about.html** - About without log in 
