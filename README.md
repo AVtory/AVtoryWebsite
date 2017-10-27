@@ -1,7 +1,7 @@
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://s3-us-west-2.amazonaws.com/cs-441-avtory/images/AVtory_logo_Cropped.png "AVtory Logo"
+[logo]: https://s3-us-west-2.amazonaws.com/cs-441-avtory/images/AVtory_logo.png "AVtory Logo"
 
 
 
