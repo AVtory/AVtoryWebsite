@@ -12,8 +12,9 @@ The goal of this project was to create a web application to manage equipment and
 
 
 
+### Change Log 
 
-10-25-17 
+#### 10-25-17 
 AVtory HTML pages
 about.html	-About without log in 
 about2.html	-About with log in 
@@ -34,8 +35,6 @@ logout.html	*needs more stuff?
 setting.html	*need to match other pages and implemented
 signup.html	-Sign up has JS check and takes in what user fills out 
 
-
-
 AVtory test pages
 testa.html - ABOUT 
 test.html  - 
@@ -48,7 +47,7 @@ test5.html -
 test6.html - 
 test7.html - 
 
-10-24-17 
+#### 10-24-17 
 AVtory HTML pages
 about.html  -About without log in 
 about2.html -About with log in 
