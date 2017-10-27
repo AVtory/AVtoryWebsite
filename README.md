@@ -3,18 +3,16 @@
 [logo]: https://s3-us-west-2.amazonaws.com/cs-441-avtory/images/AVtory_logo_Cropped.png "AVtory Logo"
 
 # Overview
+---
 Group Project for CS 441 - Software Engineering at Cal State San Marcos
 
 
 ## Project Description
-======
-
 The goal of this project was to create a web application to manage equipment and inventory. This inventory management system was designed with efficiency and security in mind. By providing a secure and user-friendly interface, this web application allows employees to easily and securely interact with their equipment stored in a database.
 
 
-### Change Log 
----
-#### 10-25-17 
+## Change Log 
+#### Date: 10-25-17 
 ##### AVtory HTML pages
 1. **about.html** - About without log in 
 2. **about2.html** - About with log in 
@@ -52,8 +50,8 @@ The goal of this project was to create a web application to manage equipment and
 8. test5.html - 
 9. test6.html - 
 10. test7.html - 
----
-#### 10-24-17 
+
+#### Date: 10-24-17 
 ##### AVtory HTML pages
 1. **about.html** - About without log in 
 2. **about2.html** - About with log in 
