@@ -18,26 +18,26 @@ The goal of this project was to create a web application to manage equipment and
 1. **`about.html`** - About without log in 
 2. **`about2.html`** - About with log in 
 3. **`AVtory.html`** - Homepage when you log in 
-4. **chkin.html** - Used to check in a piece of inventory.
+4. **`chkin.html`** - Used to check in a piece of inventory.
 	* Still needs to match other pages and implemented
-5. **chkout.html** - Used to check out a piece of inventory. 
+5. **`chkout.html`** - Used to check out a piece of inventory. 
 	* Still needs to match other pages and implemented
-6. **equipment.html** - View, add, delete, and update inventory. 
+6. **`equipment.html`** - View, add, delete, and update inventory. 
 	* Still needs to match other pages 
-7. **addEquipment.html** - Adding new item has js check
+7. **`addEquipment.html`** - Adding new item has js check
 	* A better way to add items? User selects how many items they want to add.    	      
-8. **editEquipment.html**
+8. **`editEquipment.html`**
 	* Need to implement a validation method to verify data and confirm changes. 
 	* Need to implement a method to select and edit inventory
-9. **deleteEquipment.html**
+9. **`deleteEquipment.html`**
 	* Need to implement a validation and verification method 
 	* Need to implement a method to select and delete equipment. 
-10. **login.html** - Login has JS check and takes in what user fills out
-11. **logout.html**
+10. **`login.html`** - Login has JS check and takes in what user fills out
+11. **`logout.html`**
 	* needs more stuff?
-12. **setting.html** - View and modify user profile and information
+12. **`setting.html`** - View and modify user profile and information
 	* Need to match other pages and be implemented
-13. **signup.html** 
+13. **`signup.html`** 
 	* Sign up has JS check and takes in what user fills out 
 
 #### AVtory test pages
@@ -56,25 +56,25 @@ The goal of this project was to create a web application to manage equipment and
 
 #### Date: 10-24-17 
 #### AVtory HTML pages
-1. **about.html** - About without log in 
-2. **about2.html** - About with log in 
-3. **AVtory.html** - Homepage when you log in 
-4. **chkin.html** 
+1. **`about.html`** - About without log in 
+2. **`about2.html`** - About with log in 
+3. **`AVtory.html`** - Homepage when you log in 
+4. **`chkin.html`** 
 	* still needs to match other pages and implemented
-5. **chkout.html**
+5. **`chkout.html`**
 	* still needs to match other pages and implemented
-6. **equipment.html**
+6. **`equipment.html`**
 	* still needs to match other pages 
-7. **login.html** - Login has JS check and takes in what user fills out
-8. **logout.html**
+7. **`login.html`** - Login has JS check and takes in what user fills out
+8. **`logout.html`**
 	* needs more stuff?
-9. **setting.html**
+9. **`setting.html`**
 	* need to match other pages and implemented
-10. **signup.html** - Sign up has JS check and takes in what user fills out 
+10. **`signup.html`** - Sign up has JS check and takes in what user fills out 
 
 #### AVtory test pages
 1. testa.html - ABOUT 
-2. test.html  - LOG IN
+2. test.html - LOG IN
 3. test0.html - SIGN UP
 4. test1.html - HOME
 5. test2.html - Equipment
