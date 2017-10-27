@@ -52,6 +52,8 @@ The goal of this project was to create a web application to manage equipment and
 9. test6.html - 
 10. test7.html - 
 
+***
+
 #### Date: 10-24-17 
 ##### AVtory HTML pages
 1. **about.html** - About without log in 
