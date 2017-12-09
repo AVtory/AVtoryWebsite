@@ -1,0 +1,23 @@
+/*
+ * CSS for base.html
+ * Location: /var/www/avtory/css
+ */
+
+/* Logout button in Logout Modal */
+#logout_link{
+	color: #F5F5F5;
+}
+
+/* Body Container */
+.body_container{
+	background-color: #FFFFFF;
+}
+
+#body_container{
+	align-items: center;
+}
+
+/* Main buttons on home screen */
+.home_buttons{
+	text-align: center;
+}
