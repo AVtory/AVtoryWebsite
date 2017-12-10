@@ -142,3 +142,13 @@ h1 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
 }
+
+/* Logout button in Logout Modal */
+#logout_link{
+  color: #F5F5F5;
+}
+
+/* Main buttons on home screen */
+.home_buttons{
+  text-align: center;
+}
