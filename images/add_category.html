@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %}Add Category{% endblock %}
+{% block content %}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!-- JavaScript to get text from input-->
+<script type="text/javascript">
+    $(document).ready(function() {
+        var category_name = $('#category_name');
+        var submit_category = $('#submit_category');
+        submit_category.click(function() {
+            alert(category_name.val());
+        });
+    });
+</script>
+
+
+<form action="add_category" method="post">
+  <div class="form-group">
+    <input type="text" id="submit_category" name="category" class="form-control" placeholder="Category Name" />
+    <button type="submit" id="submit_department" class="btn btn-primary">Add Category</button>
+    <button type="submit" class="btn btn-primary">
+    <!-- data-toggle tells Bootstrap what to do -->
+    <!-- data-target tells Bootstrap which element is going to open -->
+
+
+ <!-- Modal -->
+    <div class="modal fade" id="primary" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h1><i class="glyphicon glyphicon-thumbs-up"></i> Primary Modal</h1>
+                </div>
+                <div class="modal-body">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Close</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+  </div>
+</form>
+  </div>
+  </div>
+
+<!-- Modal: the id of the parent div MUST have the same name as the data-target in the trigger -->
+<div class="modal fade" id="basicModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <!-- Holds the contents of the modal -->
+        <div class="modal-content">
+            <!-- Modal header -->
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&amp;times;</button>
+              <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+            </div>
+            <!--Modal Body -->
+            <div class="modal-body">
+                <h3> Category Successfully Added! </h3>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

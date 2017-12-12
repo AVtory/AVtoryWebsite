@@ -1,0 +1,60 @@
+[ec2-user@ip-10-0-0-29 ~]$ ls
+avtory-server
+[ec2-user@ip-10-0-0-29 ~]$ cd /
+[ec2-user@ip-10-0-0-29 /]$ ls
+bin   cgroup  etc   lib    local       media  opt   root  sbin     srv  tmp  var
+boot  dev     home  lib64  lost+found  mnt    proc  run   selinux  sys  usr
+[ec2-user@ip-10-0-0-29 /]$ cd var/www/
+[ec2-user@ip-10-0-0-29 www]$ ls
+avtory  cgi-bin  error  html  icons  inc  noindex
+[ec2-user@ip-10-0-0-29 www]$ cd avtory/
+[ec2-user@ip-10-0-0-29 avtory]$ ls
+bootstrap  bootstrap-4.0.0-beta  css  html  images  js  #README.md#  README.md
+
+
+PATHS========================================
+IMAGES
+/var/www/html/test-avtory/images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
